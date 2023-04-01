@@ -1,2 +1,3 @@
 # PokemonGAN
-Creation of Pokemon cards using GANs
+
+ - Creation of Pokemon cards using GANs
